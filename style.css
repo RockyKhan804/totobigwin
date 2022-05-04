@@ -1,0 +1,22 @@
+/* .imageWrapper img{
+    width:90%;
+    border-radius: 100px;
+
+
+} */
+.carousel-item img {height: 300px!important;}
+
+.unorderList {list-style: none;}
+li.lctext {margin-right: 5px;margin-left: 31px;font-weight: 500;font-size: 16px;cursor: pointer;}
+ul.second {margin-left: 30px;margin-top: -10px;}
+ul.second li {color: black;font-weight: 500;line-height: 42px;cursor:pointer}
+
+.map{
+    color:red!important;
+    transition: 0.5s;
+}
+
+.map:hover{
+    color:black!important;
+    cursor:pointer
+}
